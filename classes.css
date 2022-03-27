@@ -1,0 +1,52 @@
+/* Image Styles */
+img#octagon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img#bryce {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#izzy {
+    display: block;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* article style */
+.classes {
+    border: 2px solid black;
+    width: 100%;
+}
+
+/* Paragraph Styles */
+
+p{
+    color: white;
+}
+
+.fight_types {
+    border: 1px solid black;
+}
+
+#sparring_criteria {
+    font-size: 32px;
+    color: black;
+    text-align: center;
+}
+
+/* Heading Styles */
+.headings {
+    text-align: center;
+    color: black;
+}
+
+/* div styles */
+div {
+    border: 5px solid white;
+}

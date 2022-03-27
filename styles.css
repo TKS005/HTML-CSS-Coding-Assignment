@@ -1,0 +1,24 @@
+/* Nav Bar Styles */
+
+nav {
+    background-color: black;
+    height: 50px;
+}
+nav a {
+    color: #03fcaa;
+    font-size: 32px;
+    padding: 32px;
+}
+nav a:hover {
+    color: rgb(3, 86, 252);
+}
+
+/* Body Background Styles */
+
+body {
+    background-color: #0356fc;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+

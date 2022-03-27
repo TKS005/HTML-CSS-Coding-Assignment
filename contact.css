@@ -1,0 +1,31 @@
+/* Heading Styles */
+
+h1 {
+    text-align: center;
+}
+
+/* Paragraph Styles */
+
+p#contact {
+    color: white;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Div Styles */
+#form {
+    margin: auto;
+    width: 50%;
+}
+
+/* Form Styles */
+
+input.text_box {
+    margin: auto;
+    width: 50%;
+}
+
+#submit {
+    margin: auto;
+    width: 50%;
+}

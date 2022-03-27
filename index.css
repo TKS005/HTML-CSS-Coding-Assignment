@@ -1,0 +1,44 @@
+/* Table Styles */
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border: 3px solid black;
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(3, 252, 170);
+}
+
+#table_description {
+    text-align: center;
+}
+
+/* Header Styles */
+
+/* Paragraph Styles */
+#first {
+    background-color: white;
+}
+
+p#description {
+    font-size: 16pt;
+    color: black;
+    line-height: 53px;
+}
+#name {
+    color: #0356fc;
+}
+
+#ufc {
+    color: #0356fc;
+}
+
+#skills {
+    color: #0356fc;
+}
